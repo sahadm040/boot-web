@@ -1,0 +1,12 @@
+.slide {
+    height: 700px;
+}
+#order{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+    padding: 30px;
+}
+
+class="card shadow col-md-6 p-3 mb-5 bg-body rounded"
